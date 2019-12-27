@@ -25,7 +25,7 @@
     </platform>
     <preference name="phonegap-version" value="cli-8.1.1" />
     <preference name="android-minSdkVersion" value="19" />
-    <preference name="GOOGLE_MAPS_ANDROID_API_KEY" value="AIzaSyAOSRAaoQhAuIQkG8uQu2XnV4Wo0WWB7vk" />
+    <preference name="GOOGLE_MAPS_ANDROID_API_KEY" value="(API KEY)" />
     <preference name="GOOGLE_MAPS_IOS_API_KEY" value="(API KEY)" />
     <plugin name="cordova-plugin-googlemaps" spec="https://github.com/mapsplugin/cordova-plugin-googlemaps" />
     <engine name="ios" spec="^5.0.1" />
